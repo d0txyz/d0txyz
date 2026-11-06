@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">d0txyz</title>
+  <desc id="desc">Builds AI automation, full-stack web, mobile. Writes TypeScript, C#, Python, JavaScript, SQL, Rust. A large wordmark beside a short index.</desc>
+  <style>
+  </style>
+  <path d="M0 2H1280" stroke="#F0F3F6" stroke-width="3"/><path d="M0 299H1280" stroke="#30363D" stroke-width="2"/>
+  <g transform="translate(4 200) scale(1.18)">
+    <g fill="none" stroke="#F0F3F6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="40" cy="-40" r="33"/><path d="M73 -117V-7"/>
+      <ellipse cx="135" cy="-62" rx="30" ry="55"/>
+      <path d="M218 -110V-29Q218 -7 240 -7H252"/><path d="M197 -73H250"/>
+      <path d="M284 -73L342 -7M342 -73L284 -7"/>
+      <path d="M374 -73L403 -8M432 -73L386 30"/>
+      <path d="M466 -73H520L466 -7H520"/>
+    </g>
+    <circle cx="135" cy="-62" r="11" fill="#6E8BFF"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"><text x="842" y="74" fill="#8D96A0" font-size="19" letter-spacing="2.5">BUILDS</text><text x="842" y="106" fill="#F0F3F6" font-size="25">AI automation, web, mobile</text><text x="842" y="152" fill="#8D96A0" font-size="19" letter-spacing="2.5">LANGUAGES</text><text x="842" y="184" fill="#F0F3F6" font-size="25">TypeScript, C#, Python, SQL</text><text x="842" y="230" fill="#8D96A0" font-size="19" letter-spacing="2.5">SHIPS WITH</text><text x="842" y="262" fill="#F0F3F6" font-size="25">Next.js, .NET, Supabase</text></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 220" width="1280" height="220" role="img" aria-labelledby="title desc">
+  <title id="title">Recent activity</title>
+  <desc id="desc">86 contributions on 10 active days in the last 30 days. Bars show contributions per week for the last 12 weeks.</desc>
+  <path d="M0 2H1280" stroke="#111418" stroke-width="3"/><path d="M0 219H1280" stroke="#D0D7DE" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="4" y="118" fill="#111418" font-size="68" font-weight="700">86</text>
+    <text x="4" y="160" fill="#59636E" font-size="22">contributions, last 30 days</text>
+    <text x="388" y="118" fill="#111418" font-size="68" font-weight="700">10</text>
+    <text x="388" y="160" fill="#59636E" font-size="22">active days</text>
+    <text x="788" y="50" fill="#59636E" font-size="21">per week, last 12 weeks</text>
+    <path d="M788 161H1276" stroke="#D0D7DE" stroke-width="2"/>
+    <rect x="788" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><rect x="830" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><rect x="872" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><rect x="914" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><rect x="956" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><rect x="998" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><rect x="1040" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><path d="M1082 160V158Q1082 154 1086 154H1104Q1108 154 1108 158V160Z" fill="#59636E"/><path d="M1124 160V150Q1124 146 1128 146H1146Q1150 146 1150 150V160Z" fill="#59636E"/><path d="M1166 160V80Q1166 76 1170 76H1188Q1192 76 1192 80V160Z" fill="#59636E"/><rect x="1208" y="157" width="26" height="3" rx="1.5" fill="#D0D7DE"/><path d="M1250 160V86Q1250 82 1254 82H1272Q1276 82 1276 86V160Z" fill="#2447F9"/>
+    <g font-size="21"><text x="788" y="192" text-anchor="start" fill="#59636E">Aug</text><text x="914" y="192" text-anchor="start" fill="#59636E">Sep</text><text x="1082" y="192" text-anchor="start" fill="#59636E">Oct</text><text x="1179.0" y="66" text-anchor="middle" fill="#111418">41</text><text x="1263.0" y="72" text-anchor="middle" fill="#111418">38</text><text x="1276" y="192" text-anchor="end" fill="#59636E">Nov</text></g>
+  </g>
+</svg>

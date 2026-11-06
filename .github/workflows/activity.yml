@@ -1,0 +1,32 @@
+name: Refresh activity strip
+
+on:
+  schedule:
+    - cron: "17 1 * * *" # every day, 09:17 in Manila
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Draw the activity strip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/activity.py "${{ github.repository_owner }}"
+
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- assets; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "Refresh activity strip"
+          git push
