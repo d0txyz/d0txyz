@@ -5,6 +5,8 @@
 
 I build full-stack products and the automation around them: web and mobile apps, AI agents, and the plumbing between systems. If a task gets done the same way every week, I would rather it ran by itself.
 
+**Portfolio:** [d0txyz.github.io](https://d0txyz.github.io) · **Email:** [dr.n3far1ous@gmail.com](mailto:dr.n3far1ous@gmail.com) · Open to full-time or contract work, remote.
+
 ### What I do
 
 <table>
